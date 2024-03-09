@@ -1,0 +1,47 @@
+{
+  "responses": [
+    {
+      "id": 1,
+      "tiro": [
+        {
+          "Latitud": "19.432608",
+          "Longitud": "-99.133209",
+          "numero": "001",
+          "nombre": "Tiro1",
+          "tiro": "T1"
+        }
+      ],
+      "trazo": [
+        {
+          "latitud": "19.432608",
+          "longitud": "-99.133209",
+          "hora": "08:00"
+        },
+        {
+          "latitud": "19.434608",
+          "longitud": "-99.135209",
+          "hora": "08:30"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tiro": [
+        {
+          "Latitud": "20.432608",
+          "Longitud": "-98.133209",
+          "numero": "002",
+          "nombre": "Tiro2",
+          "tiro": "T2"
+        }
+      ],
+      "trazo": [
+        {
+          "latitud": "20.432608",
+          "longitud": "-98.133209",
+          "hora": "09:00"
+        }
+      ]
+    }
+  ]
+}
