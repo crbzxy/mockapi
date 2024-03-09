@@ -1,11 +1,14 @@
 {
   "responses": [
     {
-      "id": 1,
+      "id": "1",
+      "Placa": "XYZ123",
+      "idRuta": "101",
+      "cliente": "ClienteA",
       "tiro": [
         {
-          "Latitud": "19.432608",
-          "Longitud": "-99.133209",
+          "latitud": "19.432608",
+          "longitud": "-99.133209",
           "numero": "001",
           "nombre": "Tiro1",
           "tiro": "T1"
@@ -25,11 +28,14 @@
       ]
     },
     {
-      "id": 2,
+      "id": "2",
+      "Placa": "ABC789",
+      "idRuta": "102",
+      "cliente": "ClienteB",
       "tiro": [
         {
-          "Latitud": "20.432608",
-          "Longitud": "-98.133209",
+          "latitud": "20.432608",
+          "longitud": "-98.133209",
           "numero": "002",
           "nombre": "Tiro2",
           "tiro": "T2"
@@ -37,9 +43,29 @@
       ],
       "trazo": [
         {
-          "latitud": "20.432608",
-          "longitud": "-98.133209",
-          "hora": "09:00"
+          "latitud": 24.4469118,
+          "longitud": -104.1268158,
+          "hora": "08:30"
+        },
+        {
+          "latitud": 24.4476729,
+          "longitud": -104.1264527,
+          "hora": "08:30"
+        },
+        {
+          "latitud": 24.4449729,
+          "longitud": -104.1242743,
+          "hora": "08:30"
+        },
+        {
+          "latitud": 24.4464606,
+          "longitud": -104.1239112,
+          "hora": "08:30"
+        },
+        {
+          "latitud": 24.4476729,
+          "longitud": -104.1246527,
+          "hora": "08:30"
         }
       ]
     }
